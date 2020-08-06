@@ -1,2 +1,2 @@
 #Pagination JS
-Simple pagination scheme using the jquery with pagination.js libraries.
+Simple pagination scheme with JSON data.
