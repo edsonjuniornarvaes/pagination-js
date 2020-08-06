@@ -1,24 +1,14 @@
-ul, li {
-    list-style: none;
+.container {
+    border: 1px solid rgba(0, 0, 0, .11);
+    ;
+    padding: 10px;
+    width: 500px
 }
 
-#wrapper {
-    width: 900px;
-    margin: 20px auto;
+.controls-item {
+    display: inline-block;
 }
 
-.data-container {
-    margin-top: 20px;
-}
-
-.data-container ul {
-    padding: 0;
-    margin: 0;
-}
-
-.data-container li {
-    margin-bottom: 5px;
-    padding: 5px 10px;
-    background: #eee;
-    color: #666;
+.btn {
+    margin: 1px;
 }
